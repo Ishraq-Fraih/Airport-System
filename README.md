@@ -20,7 +20,7 @@ Conditional Statements & Loops
 🔹 Database Integration for real-time booking storage.
 🔹 Online API Integration for actual airline data retrieval.
 
-🔗 GitHub Repository: [Put your link here]
+🔗 GitHub Repository: [https://github.com/Ishraq-Fraih/Airport-System]
 
 📌 Why This Project?
 This project demonstrates strong Java programming skills, user input handling, and basic flight booking logic, making it a great foundation for building advanced reservation systems.
